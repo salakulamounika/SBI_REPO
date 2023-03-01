@@ -1,5 +1,9 @@
 class void()
 {
-int j=10;
-char k=mounika;
+int i =10;
+  char j=mounika;
+//task 10
+int g=5;
+char k=20;
 }
+
